@@ -19,6 +19,12 @@ body {
   text-align: center;
 }
 
+.name {
+  text-align: center;
+  font-size: 10px;
+  padding-top: 5px;
+}
+
 #choices {
   list-style: none;
   padding: 0;
